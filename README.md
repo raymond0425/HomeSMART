@@ -5,4 +5,5 @@ HomeSMART is a smart home system specifically designed for persons with disabili
 
 This is a coursework project that received grade **A** in ENGG1320 of HKU.
 
+AI2 code blocks of HomeSMART mobile client:
 ![image](HomeSMART_ai2_code_blocks.png)
